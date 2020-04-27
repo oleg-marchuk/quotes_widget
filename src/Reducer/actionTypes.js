@@ -1,0 +1,5 @@
+export const LOAD_DATA = "LOAD_DATA"
+export const SEARCH_TEXT = "SEARCH_TEXT"
+export const PREV_PAGE = "PREV_PAGE"
+export const NEXT_PAGE = "NEXT_PAGE"
+export const VALUE_SELECTION_ITEM = "VALUE_SELECTION_ITEM"
